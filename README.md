@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm an AI & Data Science Student 👋
+## Hi, I'm Tayba ,an AI & Data Science Student 👋
 
 🎓 AI & Data Science student at the University of Petra, Jordan.
 
